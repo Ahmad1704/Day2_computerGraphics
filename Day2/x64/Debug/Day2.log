@@ -1,0 +1,9 @@
+﻿  Day2.cpp
+D:\vdpkg\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp(37,10): warning C4005: 'GLM_MESSAGES': macro redefinition
+  (compiling source file 'Day2.cpp')
+      C:\Users\Ahmed\source\repos\Day2\Day2.cpp(6,9):
+      see previous definition of 'GLM_MESSAGES'
+  
+  Day2.vcxproj -> C:\Users\Ahmed\source\repos\Day2\x64\Debug\Day2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

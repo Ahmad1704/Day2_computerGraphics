@@ -1,0 +1,4 @@
+C:\Users\Ahmed\source\repos\Day2\x64\Debug\glew32d.dll
+C:\Users\Ahmed\source\repos\Day2\x64\Debug\sfml-system-d-2.dll
+C:\Users\Ahmed\source\repos\Day2\x64\Debug\sfml-window-d-2.dll
+C:\Users\Ahmed\source\repos\Day2\Day2\x64\Debug\Day2.vcxproj.Up2Date
